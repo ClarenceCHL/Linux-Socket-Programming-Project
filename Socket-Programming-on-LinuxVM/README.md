@@ -1,6 +1,6 @@
 ### FULL NAME: Haolun Cheng
 
-### What I have done in the assignment:
+### What I have done in the project:
 The key idea of this project is to assign a client to the closest hospital nearby. To implement this functionality, there are three important parts: Client, Scheduler, and Hospitals. Let me explain what each of them does by breaking down the three parts in details.
 
 And the following is also what I have implemented in the project:
